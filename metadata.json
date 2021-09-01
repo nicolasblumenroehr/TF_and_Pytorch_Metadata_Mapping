@@ -1,0 +1,29 @@
+{
+  "profile": "data-package",
+  "resources": [
+    {
+      "name": "Biological",
+      "path": "https://b2share.eudat.eu/api/files/5fc88ad5-2f13-483c-8b80-a5862c91dbbb/Biological.tar",
+      "profile": "data-resource",
+      "description": "Location and Metadata features of biological EM data",
+      "title": "Biological EM data",
+      "format": ".jpg"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Aversa, Rossella; Modarres, Mohammad Hadi; Cozzini, Stefano; Ciancio, Regina;",
+      "role": "author"
+    }
+  ],
+  "name": "data-package-EM",
+  "title": "EM_training_data_for_ML",
+  "description": "Example of Machine-Learning Training Data with EM images",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "title": "Creative Commons Attribution (CC-BY)",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
